@@ -1,5 +1,5 @@
-#KotlinTuring
-####本项目尽量使用kotilin进行开发
+# KotlinTuring #
+### 本项目尽量使用kotilin进行开发 ###
 1.使用安卓原生的网络请求,Rxjava处理线程间的数据返回
 `````
    CCRequest
